@@ -5,10 +5,10 @@
 
 ### **How to install**
 
-`library(devtools)`
+`library(devtools)`  
 `install_github("ssohail1/alphabetspkg")`
 
 ### **To use**
-`library(alphabets)`
-`help("alphab")`
-`alphab()`
+`library(alphabets)`  
+`help("alphab")`  
+`alphab()`  
